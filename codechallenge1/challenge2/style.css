@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-image: url(images/speedometer.webp);
+    color: aqua;
+
+}
+.reader{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
